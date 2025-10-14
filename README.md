@@ -1,102 +1,32 @@
-# ruby-test
+# Pruebas para Trabajo
 
-Test in ruby 
+This repository contains a collection of real technical tests and coding challenges that I have encountered throughout my career as a software developer. Some of these tests I have completed, while others remain as references or practice exercises.
 
-## Stack
-- ruby 2.6.3p62
+## Overview
 
-## Questions
+The repository is organized chronologically and by technology, covering areas such as:
 
-1. How do you calculate the power of a number?
-	- In the code it is located in the folder "powerNumber"
-2. Write a ruby method that returns the even numbers from an array of float numbers. (Do not use the even ruby method)
-	- In the code it is located in the folder "evenNumbers"
+- **Frontend**: React, React Native, Angular, Vue.js
+- **Backend**: Ruby on Rails, Python, Node.js, Java Spring Boot
+- **Full-Stack Challenges**: Coding exercises that involve both frontend and backend development
+- **Algorithms & Data Structures**: JavaScript, Python, Ruby, and Java coding challenges
+- **Machine Learning & AI Tests**: Specific exercises for evaluating AI/ML skills
+- **Miscellaneous Tests**: Company-specific assessments and online coding platforms (Codility, HackerRank, DevSkiller, etc.)
 
-3. What are collection and member routes?
+## Notes
 
-    They are route specifications in rails, a member route is one that must specify an Id,
-    example:
-  - this path member {get 'preview'} generates this path: preview_data_path (@data) => url: / datas / 1 / preview
+- Each folder or file corresponds to a test or challenge. The naming generally reflects the company, year, or technology.
+- Some tests were completed and submitted, while others are stored for practice or reference.
+- This collection serves as a personal record of technical experiences and a resource to review common coding challenges across different technologies and companies.
 
-  and a collection path will generate a collection of objects.
-  example:
-  - collection {get 'search'} will generate: search_photos_path that represents this url / photos / search
+## How to Use
 
-4. What is polymorphism?
+1. Browse through the folders to explore different challenges.
+2. Open the files to see problem statements, my solutions, or reference material.
+3. Use it as a study or preparation resource for technical interviews or coding exercises.
 
-    It is one of the characteristics of object-oriented programming that allows flexibility.
-    Polymorphism occurs when classes are related to each other through inheritance. Therefore by means of the
-    inheritance the attributes and methods of the class are inherited and in polymorphism these methods are used to generate different tasks, that is,
-    polymorphism allows us to use a simple action in different ways during the execution of the program, hence its name "polymorphism" which means many ways.
+---
 
-5.  What is the purpose of object private methods?
-    The main objective of the private methods is to protect the sensitive data of the application. That is why elements that are declared as private are only accessible within the scope of the class in which it is declared.
-
-6.   Write a web scraper that will generate a csv of all the 3 bedroom, 2 bathroom homes for rent     in a given city on Craigslist. The csv should have the following columns: title, address (if     available), monthly rent (if available), URL
-
-    note: Web scraping is downloading information from a web page through spiders, therefore if the URL to which web scraping is going to be done is not specified, it is impossible to do web scraping.
-
-### Note
-
-By definition in maths an even number is an **integer** that is divisible by two. That means that a decimal is neither even nor odd. By principle of parity it is only possible for number **integers**. This is regarding the second point.
-
-### Clone repo
-
-```bash
-# Clone repo
-$ https://github.com/WilliamPerezBeltran/ruby-test.git
-
-# Go to app directory
-$ cd ruby-test
-```
-
-## Execute code
-```bash
-# Clone repo
-$ https://github.com/WilliamPerezBeltran/ruby-test.git
-
-# Go to app directory
-$ cd ruby-test
-```
-
-
-
-### Run code
-#### "evenNumbers"
-
-```bash
-# Go into folder
-$ cd evenNumbers/
-
-# Execute code
-$ ruby main.rb
-
-# Type data in terminal 
-$ [1.5,5.2,5.0,6.2,12.3,15.0,25.0,25.4,25.0,3.5,2.6,2.0,8.0] 
-
-```
-
-### Run code
-#### "powerNumber"
-
-```bash
-# Go into folder
-$ cd powerNumber/
-
-# Execute code
-$ ruby main.rb
-
-# Example
-# Type base number 
-$ 2
-
-# Type exponent number 
-$ 3
-```
-
-## Creators
-
-**William Pérez**
-
-- <https://github.com/WilliamPerezBeltran>
+**Owner:** William Pérez  
+**GitHub:** [WilliamPerezBeltran](https://github.com/WilliamPerezBeltran/pruebas_para_trabajo)
 
