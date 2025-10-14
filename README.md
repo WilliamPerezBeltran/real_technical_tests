@@ -27,6 +27,6 @@ The repository is organized chronologically and by technology, covering areas su
 
 ---
 
-**Owner:** William Pérez  
+**Owner:** William Pérez
 **GitHub:** [WilliamPerezBeltran](https://github.com/WilliamPerezBeltran/pruebas_para_trabajo)
 
