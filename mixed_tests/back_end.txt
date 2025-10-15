@@ -19,22 +19,4 @@
 16. ¿que son los patrones orientados a eventos ?
 17. ¿diga cuales patrones orientados a eventos hay y explique uno?
 18. ¿que es el estandar de rest ?
-¿?
-¿?
-¿?
-¿?
-¿?
-¿?
-¿?
-¿?
-¿?
-¿?
-¿?
-¿?
-¿?
-¿?
-¿?
-¿?
-¿?
-¿?
 

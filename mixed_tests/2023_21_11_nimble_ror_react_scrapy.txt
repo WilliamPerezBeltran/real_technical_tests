@@ -8,7 +8,7 @@ Overview
 	- Create a web application that will extract large amounts of data from the Google search results page.
 	You need to find a way to work around the limitations of mass-searching keywords, as Google prevents it. Be creative.
 
-	⚠️ Using a third-party API to acquire Google search data is not valid. One of the goals of the code challenge is to make applicants work on data scraping.
+	Using a third-party API to acquire Google search data is not valid. One of the goals of the code challenge is to make applicants work on data scraping.
 
 	- Store this data and both display and report back this data to users.
 	- Users must be authenticated to use the application.
@@ -59,6 +59,24 @@ Technical Requirements:
 	- For the interface, front-end frameworks such as Bootstrap, Tailwind or Foundation can be used. Use SASS as the CSS preprocessor.
 	Extra points are provided to the neatness and user-friendliness of the frontend.
 	- Use Git during the development process. Push to a public repository on Github or Gitlab.  Make regular commits and merge code using pull requests.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 	- Write tests using your framework of choice.
 	- Optional: deploy the application to a cloud provider e.g. Heroku, AWS, Google Cloud or Digital Ocean.
 
