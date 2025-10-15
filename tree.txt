@@ -1,0 +1,1086 @@
+.
+├── agileengine
+│   ├── 1.html
+│   ├── 2_copy.html
+│   └── 2.html
+├── angular
+│   ├── 2024_angular
+│   │   └── prueba.html
+│   └── angular.vue
+├── angular_ruby_nextjs
+│   ├── astro_basics_files
+│   │   └── index_5ezqujng.css
+│   └── astro_basics.html
+├── clojure
+│   ├── 2023_clojure
+│   │   ├── clojure_challenge.zip
+│   │   ├── clojure_dataico.png
+│   │   ├── open_url_at_once.sh
+│   │   ├── readme.md
+│   │   └── urls.txt
+│   └── 2023_clojure_challenge_dataico
+│       ├── clojure_challenge
+│       │   ├── deps.edn
+│       │   ├── invoice.edn
+│       │   ├── invoice.json
+│       │   ├── macosx
+│       │   │   ├── deps.edn
+│       │   │   ├── invoice.edn
+│       │   │   ├── invoice.json
+│       │   │   ├── readme.md
+│       │   │   └── src
+│       │   │       ├── invoice_item.clj
+│       │   │       └── invoice_spec.clj
+│       │   ├── readme.md
+│       │   └── src
+│       │       ├── firstproblem.clj
+│       │       ├── invoice_item.clj
+│       │       └── invoice_spec.clj
+│       ├── clojure_challenge.zip
+│       ├── envio_de_prueba
+│       │   └── dataico_clojure
+│       │       ├── challenge_description_dm.swp
+│       │       ├── challenge_description.md
+│       │       ├── deps.edn
+│       │       ├── invoice.edn
+│       │       ├── invoice.json
+│       │       ├── macosx
+│       │       │   ├── deps.edn
+│       │       │   ├── invoice.edn
+│       │       │   ├── invoice.json
+│       │       │   ├── readme.md
+│       │       │   └── src
+│       │       │       ├── invoice_item.clj
+│       │       │       └── invoice_spec.clj
+│       │       ├── readme.md
+│       │       └── src
+│       │           ├── firstproblem.clj
+│       │           ├── invoice_item.clj
+│       │           ├── invoice_spec.clj
+│       │           └── secondproblemsolved.clj
+│       └── open_url_at_one_sh.swp
+├── data analyst
+│   └── data_analyst_challenge.png
+├── flas_cards
+│   ├── img_20200407_203722.jpg
+│   ├── img_20200407_203744.jpg
+│   └── img_20200407_203822.jpg
+├── frontend
+│   ├── ejercicio_de_frontend_koibanx_3_0.pdf
+│   └── prueba_t_cnica_front_end_developer.pdf
+├── gorillaz
+│   ├── decifer.txt
+│   ├── screenshot_from_2024_05_09_18_32_17.png
+│   ├── screenshot_from_2024_05_09_18_32_39.png
+│   ├── screenshot_from_2024_05_09_19_36_11.png
+│   ├── screenshot_from_2024_05_09_19_39_04.png
+│   ├── screenshot_from_2024_05_09_19_40_18.png
+│   ├── screenshot_from_2024_05_09_19_41_02.png
+│   ├── screenshot_from_2024_05_09_19_41_12.png
+│   ├── screenshot_from_2024_05_09_19_41_27.png
+│   ├── screenshot_from_2024_05_09_19_41_55.png
+│   ├── screenshot_from_2024_05_09_19_42_14.png
+│   ├── screenshot_from_2024_05_09_19_42_26.png
+│   ├── screenshot_from_2024_05_09_19_42_42.png
+│   ├── screenshot_from_2024_05_09_19_42_54.png
+│   ├── screenshot_from_2024_05_09_19_43_07.png
+│   ├── screenshot_from_2024_05_09_19_43_18.png
+│   ├── screenshot_from_2024_05_09_19_43_29.png
+│   ├── screenshot_from_2024_05_09_19_43_43.png
+│   ├── screenshot_from_2024_05_09_19_44_13.png
+│   ├── screenshot_from_2024_05_09_19_44_23.png
+│   ├── screenshot_from_2024_05_09_19_44_33.png
+│   ├── screenshot_from_2024_05_09_19_44_43.png
+│   ├── screenshot_from_2024_05_09_19_45_04.png
+│   ├── screenshot_from_2024_05_09_19_45_19.png
+│   ├── screenshot_from_2024_05_09_19_45_34.png
+│   ├── screenshot_from_2024_05_09_19_45_46.png
+│   ├── screenshot_from_2024_05_09_19_46_01.png
+│   ├── screenshot_from_2024_05_09_19_46_14.png
+│   ├── screenshot_from_2024_05_09_19_46_33.png
+│   ├── screenshot_from_2024_05_09_19_47_01.png
+│   ├── screenshot_from_2024_05_09_19_47_13.png
+│   ├── screenshot_from_2024_05_09_19_47_27.png
+│   ├── screenshot_from_2024_05_09_19_47_38.png
+│   ├── screenshot_from_2024_05_09_19_47_50.png
+│   ├── screenshot_from_2024_05_09_19_48_01.png
+│   ├── screenshot_from_2024_05_09_19_48_13.png
+│   ├── screenshot_from_2024_05_09_19_48_27.png
+│   ├── screenshot_from_2024_05_09_19_48_40.png
+│   ├── screenshot_from_2024_05_09_19_49_20.png
+│   └── screenshot_from_2024_05_09_19_49_31.png
+├── interview_preparation
+│   ├── dise_o_de_patrones_de_software_files
+│   │   ├── conversation_small_m9h3f4qg.css
+│   │   ├── formattedtext_dqwoo8t7.css
+│   │   ├── root_hj7iwwri.css
+│   │   └── unnamed.png
+│   ├── dise_o_de_patrones_de_software.html
+│   └── info_estudiar.pdf
+├── java
+│   ├── java_test_de_codility
+│   │   ├── 1.html
+│   │   ├── 2.html
+│   │   └── 2_remein.html
+│   ├── scotiabank_bank
+│   │   ├── prueba_java_scotiabank_bank.docx
+│   │   └── respuesta_prueba_java_scotiabank_bank.docx
+│   ├── spring_boot_y_java
+│   │   ├── java_1.html
+│   │   ├── java_2.html
+│   │   └── java_total.html
+│   └── test_java
+│       ├── ejempl
+│       │   ├── 2023_mi20musica_another_copy.html
+│       │   ├── 2023_mi20musica_copy.html
+│       │   └── 2023_mi20musica.html
+│       ├── react_3rd_copy.html
+│       ├── react_4th_copy.html
+│       ├── react_5th_copy.html
+│       ├── react_6th_copy.html
+│       ├── react_7th_copy.html
+│       ├── react_8th_copy.html
+│       ├── react_9th_copy.html
+│       ├── react_another_copy.html
+│       ├── react_copy.html
+│       └── react.html
+├── javascript
+│   ├── 2023_javascript_python
+│   │   ├── 1.png
+│   │   ├── 2.png
+│   │   ├── 3.png
+│   │   ├── 5.png
+│   │   ├── 6.png
+│   │   ├── 7.png
+│   │   ├── ejercicios.js
+│   │   └── readme.mk
+│   ├── epam_javascript
+│   │   ├── readme.md
+│   │   ├── screenshot_from_2024_03_28_14_52_05.png
+│   │   ├── screenshot_from_2024_03_28_15_04_23.png
+│   │   ├── screenshot_from_2024_03_28_15_06_28.png
+│   │   ├── screenshot_from_2024_03_28_15_08_42.png
+│   │   ├── screenshot_from_2024_03_28_15_13_01.png
+│   │   ├── screenshot_from_2024_03_28_15_24_13.png
+│   │   ├── screenshot_from_2024_03_28_15_33_02.png
+│   │   └── screenshot_from_2024_03_28_15_33_14.png
+│   ├── evaluacion_javascript
+│   │   ├── 1.png
+│   │   ├── 2.png
+│   │   ├── 4.png
+│   │   ├── 5.png
+│   │   ├── react_button_toggle.txt
+│   │   ├── react_phone_book.txt
+│   │   └── string_reduction.txt
+│   ├── node
+│   │   ├── knowledge_test_1.pdf
+│   │   └── prueba_t_cnica_desarrollador_node_reactjs.pdf
+│   ├── prueb_devskiller_javascript_node
+│   │   ├── readme.md
+│   │   ├── test_1
+│   │   │   ├── devskiller_code_q93t_ewtr_fe_s1f.zip
+│   │   │   └── to_do
+│   │   │       ├── devskiller_test_files
+│   │   │       │   ├── 0_4e2b6f2942f81b8d1128.js
+│   │   │       │   ├── 0_8ed826a25ec0dc7628ad.css
+│   │   │       │   ├── 1_789c9ab4ef0e5bccd665.js
+│   │   │       │   ├── 1_ac879c42e4d0dba7df32.css
+│   │   │       │   ├── 2_8443a3581a2919dea33b.js
+│   │   │       │   ├── 2_c3df390b844aa2b84099.css
+│   │   │       │   ├── 3_46cc934852830d9e654b.css
+│   │   │       │   ├── 3_ade8f1a8b0c14fba7643.js
+│   │   │       │   ├── 4_ccd4d6cfde78185840ab.js
+│   │   │       │   ├── clike.js
+│   │   │       │   ├── css
+│   │   │       │   ├── exam_e602d69089e7bda4c252.js
+│   │   │       │   ├── exam_ee07a741079703f57414.css
+│   │   │       │   ├── firepad.css
+│   │   │       │   ├── javascript.js
+│   │   │       │   ├── jsx.js
+│   │   │       │   ├── loader.css
+│   │   │       │   ├── logo_devskiller_de7b4248.svg
+│   │   │       │   ├── preloadjs_min.js
+│   │   │       │   ├── sessionstack.js
+│   │   │       │   └── vendors_emoji_2989b205fda71558f4d0.js
+│   │   │       └── devskiller_test.html
+│   │   └── test_2
+│   │       ├── devskiller_code_q93t_ewtr_fe_s0f.zip
+│   │       ├── devskiller_test_files
+│   │       │   ├── 0_4e2b6f2942f81b8d1128.js
+│   │       │   ├── 0_8ed826a25ec0dc7628ad.css
+│   │       │   ├── 1_789c9ab4ef0e5bccd665.js
+│   │       │   ├── 1_ac879c42e4d0dba7df32.css
+│   │       │   ├── 2_8443a3581a2919dea33b.js
+│   │       │   ├── 2_c3df390b844aa2b84099.css
+│   │       │   ├── 3_46cc934852830d9e654b.css
+│   │       │   ├── 3_ade8f1a8b0c14fba7643.js
+│   │       │   ├── 4_ccd4d6cfde78185840ab.js
+│   │       │   ├── clike.js
+│   │       │   ├── css
+│   │       │   ├── exam_e602d69089e7bda4c252.js
+│   │       │   ├── exam_ee07a741079703f57414.css
+│   │       │   ├── firepad.css
+│   │       │   ├── javascript.js
+│   │       │   ├── jsx.js
+│   │       │   ├── loader.css
+│   │       │   ├── logo_devskiller_de7b4248.svg
+│   │       │   ├── preloadjs_min.js
+│   │       │   ├── sessionstack.js
+│   │       │   └── vendors_emoji_2989b205fda71558f4d0.js
+│   │       └── devskiller_test.html
+│   └── thoughtworks_javascript
+├── machine_learning
+│   ├── machine_learning.zip
+│   ├── ml_technical_test_forge_werks.pdf
+│   └── prueba_tecnica_andres_puerto
+│       ├── parte1
+│       │   └── evaluacion_teorica
+│       │       ├── images
+│       │       │   ├── airpassengers.png
+│       │       │   ├── bad.png
+│       │       │   ├── estacionaria.png
+│       │       │   ├── final.png
+│       │       │   ├── plot1.png
+│       │       │   ├── train_test.png
+│       │       │   ├── trend.png
+│       │       │   ├── xgboost1.png
+│       │       │   └── xgboost2.png
+│       │       └── xgboost_forecasting.ipynb
+│       ├── parte_2
+│       │   ├── gpt2_fine_tunning
+│       │   │   ├── duitama_es_en.txt
+│       │   │   └── gpt2_fine_tunning.ipynb
+│       │   ├── pinecone
+│       │   │   └── pinecone.ipynb
+│       │   └── reinforcemente_learning
+│       │       ├── lunarlander.ipynb
+│       │       └── newplot.png
+│       ├── parte3
+│       │   ├── docker_app
+│       │   │   ├── dockerfile
+│       │   │   ├── pizza_planet.png
+│       │   │   ├── requirements.txt
+│       │   │   └── streamlit_example.py
+│       │   └── rag_app
+│       │       ├── beginning_birders_guide_5_spanish.pdf
+│       │       ├── birders
+│       │       │   └── chroma
+│       │       │       ├── 4520fe84_b698_4659_bfca_79f807499613
+│       │       │       │   ├── data_level0.bin
+│       │       │       │   ├── header.bin
+│       │       │       │   ├── length.bin
+│       │       │       │   └── link_lists.bin
+│       │       │       └── chroma.sqlite3
+│       │       ├── comparative.csv
+│       │       ├── custom_rag
+│       │       ├── dataflow.png
+│       │       ├── deepeval_cache.json
+│       │       ├── filekey.txt
+│       │       ├── ground_truth
+│       │       ├── rag_example.py
+│       │       ├── requirements.txt
+│       │       └── vector_data_store_technical_assesment.ipynb
+│       ├── presentaci_nfinal.pptx
+│       ├── prueba_t_cnica_para_ingeniero_en_ia_generativa_1_1.docx
+│       └── video_presentaci_n.mp4
+├── mixed_tests
+│   ├── 2023_21_11_nimble_ror_react_scrapy.txt
+│   ├── back_end_technical_test_1.pdf
+│   ├── back_end.txt
+│   ├── bairesdev.html
+│   ├── codility.html
+│   ├── decipher_function_README_clean.md
+│   ├── home_test_twilio_s_answer_william_perez.docx
+│   ├── prueba_algoritmo.js
+│   ├── prueba_para_ingenier_a.pdf
+│   ├── prueba_tecnica_backend_rappi_1.docx
+│   ├── templateprueba_v4.pdf
+│   └── test_t_cnico
+│       ├── prueba_de_habilidades_psicot_cnicas.pdf
+│       ├── test_t_cnico
+│       │   ├── 59eabcf6_3c90_4086_98dd_8d2f859fe10a
+│       │   ├── a641da7a_d6d5_4eee_ac56_1a52fbbcdec1
+│       │   ├── dll_dompurify_min_3c32c70.js
+│       │   ├── light_response_page_min_274d581.js
+│       │   ├── ls_response_en_us_6095d9c61.js
+│       │   └── ms_jsll_3_min.js
+│       ├── test_t_cnico_copy.html
+│       ├── test_t_cnico.html
+│       └── test_t_cnico.pdf
+├── php
+│   └── sonatafy_php_code_test
+│       ├── back_end_challenge
+│       │   ├── 10.png
+│       │   ├── explicacion.txt
+│       │   └── file.php
+│       ├── explicacion.txt
+│       ├── front_end_challenge_1
+│       │   ├── 20.png
+│       │   ├── explicacion.txt
+│       │   └── file.js
+│       └── front_end_challenge_2
+│           ├── 30.png
+│           ├── explicacion.txt
+│           └── file.js
+├── pictures
+│   ├── 1_exercise.png
+│   ├── chatgpt1.png
+│   ├── chatgpt_2.png
+│   ├── chatgpt_3.png
+│   ├── chatgpt4.png
+│   ├── chatgpt5.png
+│   ├── chatgpt_6.png
+│   ├── chatgpt7.png
+│   ├── chatgpt8.png
+│   ├── chatgpt_9.png
+│   ├── closure.png
+│   ├── isvalid.png
+│   ├── screenshot_20220104_103749_com_google_android_apps_meetings.jpg
+│   ├── screenshot_20220104_111539_com_google_android_apps_meetings.jpg
+│   ├── screenshot_20220720_132057_us_zoom_videomeetings.jpg
+│   └── screenshot_from_2023_09_22_09_22_22.png
+├── python
+│   ├── anthesis_technical_test_colombia.pdf
+│   ├── fondeadora_full_stack_coding_test.txt
+│   ├── prueba_daniel_infante
+│   │   └── aplanar_arreglo
+│   ├── prueba_enviada_por_daniel.png
+│   ├── prueba_python_aflore_test
+│   ├── prueba_python_backend.pdf
+│   ├── prueba_tecnica_desarrollador_python_1_1.docx
+│   ├── prueba_twilio
+│   │   ├── home_test_twilio_s_answer_william_perez.docx
+│   │   ├── mi_respuesta_twilio
+│   │   │   ├── data.json
+│   │   │   └── twiliocall.py
+│   │   ├── twiliocall.js
+│   │   └── twiliocall.py
+│   ├── python_comapañia_flora
+│   │   ├── categories.xml_(1)
+│   │   │   └── categories.xml
+│   │   ├── categories_xml_1.zip
+│   │   └── tech_challenge_engineering_1.pdf
+│   └── touch_stackless_fullstack_coding_challenge.txt
+│       └── challenge.txt
+├── react
+│   ├── 2023_preguntas_prueba_react_node
+│   │   ├── 1.html
+│   │   ├── 1.rb
+│   │   ├── 2.html
+│   │   ├── 3.html
+│   │   ├── react.html
+│   │   └── readme.md
+│   ├── elempleo_frontend.docx
+│   ├── histograma.png
+│   ├── preuba_evalar_react_native
+│   │   ├── evalar_prueba_de_react_testing_library.html
+│   │   ├── evalar_react_native.html
+│   │   └── reac_js_evalart
+│   │       ├── evalart.pdf
+│   │       ├── react_js_evalart_files
+│   │       │   ├── ajax_loader.gif
+│   │       │   ├── app_attachments.css
+│   │       │   ├── app_attachments.js
+│   │       │   ├── app_video.css
+│   │       │   ├── app_video.js
+│   │       │   ├── bootbox_min.js
+│   │       │   ├── bootstrap_min.css
+│   │       │   ├── bootstrap_min.js
+│   │       │   ├── datatables_bootstrap.css
+│   │       │   ├── datatables_bootstrap.js
+│   │       │   ├── estilo.css
+│   │       │   ├── execute.js
+│   │       │   ├── flipclock.css
+│   │       │   ├── funciones.js
+│   │       │   ├── jquery_bootstrap_wizard_min.js
+│   │       │   ├── jquery_countdown_min.js
+│   │       │   ├── jquery_datatables_min.js
+│   │       │   ├── jquery_highlight_5.js
+│   │       │   ├── jquery_matchheight.js
+│   │       │   ├── jquery_min.js
+│   │       │   ├── jquery_searcher.js
+│   │       │   ├── jquery_sortable.js
+│   │       │   ├── jquery_validationengine_es.js
+│   │       │   ├── jquery_validationengine.js
+│   │       │   ├── presentacionmin.png
+│   │       │   ├── public.css
+│   │       │   ├── ready.js
+│   │       │   ├── simpleajaxuploader_min.js
+│   │       │   └── validationengine_jquery.css
+│   │       ├── react_js_evalart.html
+│   │       └── test.txt
+│   ├── prueba_front_react.md
+│   ├── prueba_front_react.rtf
+│   ├── prueba_front_react.txt
+│   ├── prueba_react
+│   │   └── balanced_array.html
+│   ├── prueba_react_js_de_agileengine_2021_agosto
+│   │   ├── 1.html
+│   │   ├── 1.js
+│   │   ├── 1_respuesta.js
+│   │   ├── 2.html
+│   │   └── 2.js
+│   ├── prueba_react_typescript
+│   │   ├── 1.png
+│   │   ├── 2.png
+│   │   ├── 3.png
+│   │   ├── 4.png
+│   │   └── 5.png
+│   ├── react_1.txt
+│   ├── react_js
+│   │   ├── 1.png
+│   │   ├── 2.png
+│   │   ├── gits_current_logic.png
+│   │   ├── otra_prueba
+│   │   │   ├── mockup_prueba_senior.pdf
+│   │   │   ├── para_la_empresa_teleperformance.txt
+│   │   │   └── prueba_senior.docx
+│   │   ├── prueba
+│   │   │   ├── screenshot_from_2020_07_21_11_51_29.png
+│   │   │   ├── screenshot_from_2020_07_21_11_52_11.png
+│   │   │   └── screenshot_from_2020_07_21_11_52_37.png
+│   │   ├── prueba1.png
+│   │   ├── prueba2.png
+│   │   ├── prueba_enero_2021
+│   │   │   ├── 00.png
+│   │   │   ├── 01_exercise.png
+│   │   │   ├── 02_exercise.js
+│   │   │   ├── 02_exercise.png
+│   │   │   ├── 03_exercise.png
+│   │   │   └── z04.png
+│   │   ├── react
+│   │   │   ├── 1
+│   │   │   │   ├── prueba_react1.png
+│   │   │   │   └── screenshot_from_2020_07_21_12_34_31.png
+│   │   │   └── 2
+│   │   │       └── color_icker.png
+│   │   └── segunda_pregunta.png
+│   ├── reactjs_y_react_native_primera_entrevista.txt
+│   ├── react_native
+│   │   ├── img_20200224_094952.jpg
+│   │   ├── img_20200224_094958.jpg
+│   │   ├── img_20200224_095002.jpg
+│   │   ├── img_20200224_095005.jpg
+│   │   ├── img_20200224_095010.jpg
+│   │   ├── img_20200224_095013.jpg
+│   │   ├── img_20200224_095016.jpg
+│   │   ├── img_20200224_095019.jpg
+│   │   └── vid_20200224_092026.mp4
+│   ├── react_native.pdf
+│   ├── react_native_prueba_fullstacklabs
+│   │   ├── developer_interview_process_overview_alexandra_lastra.pdf
+│   │   ├── from_email.txt
+│   │   └── plataforma_donde_hice_la_prueba.txt
+│   ├── react_native.txt
+│   ├── react.png
+│   ├── react.txt
+│   ├── rockstack
+│   │   └── people_management_pruebas_developer_js_m.pdf
+│   ├── scotiabank_prueba_reacjs
+│   │   ├── 1_copy.html
+│   │   ├── 1.html
+│   │   ├── 2_another_copy.html
+│   │   ├── 2.html
+│   │   └── readme.md
+│   └── z_senior_react_js
+│       ├── problema_1
+│       │   └── 1.png
+│       ├── problema_2
+│       │   ├── 1.png
+│       │   └── 2.png
+│       ├── problema_3
+│       │   └── 5.png
+│       ├── problema_4
+│       │   └── snake_game
+│       │       ├── 1.png
+│       │       ├── 2.png
+│       │       ├── 3.png
+│       │       ├── 4.png
+│       │       ├── 5.png
+│       │       └── snake_game
+│       └── repaso_culo
+│           ├── 1.html
+│           ├── 2.html
+│           └── 4.png
+├── readme.md
+├── rename.py
+├── ruby
+│   ├── 2023_10_any_stackless_full_stack_developer_coding_challenge
+│   │   ├── password
+│   │   ├── prueba.md
+│   │   ├── readme.md
+│   │   ├── stackless_full_stack.png
+│   │   └── stackless.png
+│   ├── 2023_prueba_ruby_sql
+│   │   ├── 11_copy.rb
+│   │   ├── 11.rb
+│   │   ├── 1_copy.rb
+│   │   ├── 1.html
+│   │   ├── 1.rb
+│   │   ├── answer.txt
+│   │   ├── exe
+│   │   ├── exercise_1
+│   │   ├── exercise_3
+│   │   ├── exercise_4
+│   │   ├── exercise_5
+│   │   ├── my_file_1.txt
+│   │   └── w.rb
+│   ├── 2023_ruby_devskiller
+│   │   ├── devskiller.marker
+│   │   ├── gemfile
+│   │   ├── gemfile.lock
+│   │   ├── important
+│   │   ├── lib
+│   │   │   ├── letterboard.rb
+│   │   │   └── types.rb
+│   │   ├── rakefile
+│   │   ├── readme.md
+│   │   └── test
+│   │       ├── letterboard_test.rb
+│   │       └── test_helper.rb
+│   ├── 2024_recurly
+│   │   ├── recurly_interview_tar_3.gz
+│   │   └── tax_identification_number_validation_api_2.pdf
+│   ├── kantox_technical_evaluation_ruby.pdf
+│   ├── me_salio_en_una_prueba_con_ruby_algoritmos_greedy.txt
+│   ├── preguntasror.jpeg
+│   ├── prueba_back_end_para_ruby_en_tango.pdf
+│   ├── prueba_ruby_on_rails.md
+│   ├── prueba_ruby.pdf
+│   ├── prueba_t_cnica_ruby_on_rails.pdf
+│   ├── prueb_ruby_buenas_preguntas_y_respuestas
+│   │   ├── evennumbers
+│   │   │   ├── even_number_error.rb
+│   │   │   ├── even_number.rb
+│   │   │   ├── main.rb
+│   │   │   └── utils
+│   │   │       └── validation.rb
+│   │   ├── powernumber
+│   │   │   ├── main.rb
+│   │   │   ├── power_number_error.rb
+│   │   │   └── power_number.rb
+│   │   └── readme.md
+│   ├── recurly
+│   │   ├── api_de_validaci_n_del_n_mero_de_identificaci_n_fiscal.pdf
+│   │   ├── recurly_interview.tar_(3)
+│   │   │   └── recurly_interview
+│   │   │       ├── app
+│   │   │       │   ├── controllers
+│   │   │       │   │   ├── application_controller.rb
+│   │   │       │   │   └── concerns
+│   │   │       │   └── models
+│   │   │       │       ├── application_record.rb
+│   │   │       │       └── concerns
+│   │   │       ├── bin
+│   │   │       │   ├── abn_query_server.rb
+│   │   │       │   ├── bundle
+│   │   │       │   ├── docker_entrypoint
+│   │   │       │   ├── finish_interview.sh
+│   │   │       │   ├── rails
+│   │   │       │   ├── rake
+│   │   │       │   ├── setup
+│   │   │       │   └── setup_repo.sh
+│   │   │       ├── config
+│   │   │       │   ├── application.rb
+│   │   │       │   ├── boot.rb
+│   │   │       │   ├── credentials_yml.enc
+│   │   │       │   ├── database.yml
+│   │   │       │   ├── environment.rb
+│   │   │       │   ├── environments
+│   │   │       │   │   ├── development.rb
+│   │   │       │   │   ├── production.rb
+│   │   │       │   │   └── test.rb
+│   │   │       │   ├── initializers
+│   │   │       │   │   ├── cors.rb
+│   │   │       │   │   ├── filter_parameter_logging.rb
+│   │   │       │   │   └── inflections.rb
+│   │   │       │   ├── locales
+│   │   │       │   │   └── en.yml
+│   │   │       │   ├── puma.rb
+│   │   │       │   └── routes.rb
+│   │   │       ├── config.ru
+│   │   │       ├── db
+│   │   │       │   └── seeds.rb
+│   │   │       ├── dockerfile
+│   │   │       ├── gemfile
+│   │   │       ├── gemfile.lock
+│   │   │       ├── lib
+│   │   │       │   └── tasks
+│   │   │       ├── log
+│   │   │       ├── public
+│   │   │       │   └── robots.txt
+│   │   │       ├── rakefile
+│   │   │       ├── readme.md
+│   │   │       ├── spec
+│   │   │       │   ├── rails_helper.rb
+│   │   │       │   └── spec_helper.rb
+│   │   │       ├── storage
+│   │   │       ├── tmp
+│   │   │       │   ├── pids
+│   │   │       │   └── storage
+│   │   │       └── vendor
+│   │   ├── recurly_interview_tar_3.gz
+│   │   └── tax_identification_number_validation_api.pdf
+│   ├── recurly_2024
+│   │   └── recurly
+│   │       ├── readme.md
+│   │       ├── recurly_interview
+│   │       │   └── recurly_interview
+│   │       │       ├── app
+│   │       │       │   ├── controllers
+│   │       │       │   │   ├── application_controller.rb
+│   │       │       │   │   └── concerns
+│   │       │       │   └── models
+│   │       │       │       ├── application_record.rb
+│   │       │       │       └── concerns
+│   │       │       ├── bin
+│   │       │       │   ├── abn_query_server.rb
+│   │       │       │   ├── bundle
+│   │       │       │   ├── docker_entrypoint
+│   │       │       │   ├── finish_interview.sh
+│   │       │       │   ├── rails
+│   │       │       │   ├── rake
+│   │       │       │   ├── setup
+│   │       │       │   └── setup_repo.sh
+│   │       │       ├── config
+│   │       │       │   ├── application.rb
+│   │       │       │   ├── boot.rb
+│   │       │       │   ├── credentials_yml.enc
+│   │       │       │   ├── database.yml
+│   │       │       │   ├── environment.rb
+│   │       │       │   ├── environments
+│   │       │       │   │   ├── development.rb
+│   │       │       │   │   ├── production.rb
+│   │       │       │   │   └── test.rb
+│   │       │       │   ├── initializers
+│   │       │       │   │   ├── cors.rb
+│   │       │       │   │   ├── filter_parameter_logging.rb
+│   │       │       │   │   └── inflections.rb
+│   │       │       │   ├── locales
+│   │       │       │   │   └── en.yml
+│   │       │       │   ├── puma.rb
+│   │       │       │   └── routes.rb
+│   │       │       ├── config.ru
+│   │       │       ├── db
+│   │       │       │   └── seeds.rb
+│   │       │       ├── dockerfile
+│   │       │       ├── gemfile
+│   │       │       ├── gemfile.lock
+│   │       │       ├── lib
+│   │       │       │   └── tasks
+│   │       │       ├── log
+│   │       │       ├── public
+│   │       │       │   └── robots.txt
+│   │       │       ├── rakefile
+│   │       │       ├── readme.md
+│   │       │       ├── spec
+│   │       │       │   ├── rails_helper.rb
+│   │       │       │   └── spec_helper.rb
+│   │       │       ├── storage
+│   │       │       ├── tmp
+│   │       │       │   ├── pids
+│   │       │       │   └── storage
+│   │       │       └── vendor
+│   │       ├── recurly_interview.gz
+│   │       └── tax_identification_number_validation_api_4_1.pdf
+│   ├── recurly.png
+│   ├── resumen_grupo_yuxi_copy.txt
+│   ├── resumen_grupo_yuxi.txt
+│   ├── ruby
+│   │   ├── img_20200217_192252.jpg
+│   │   ├── img_20200217_192553.jpg
+│   │   ├── img_20200217_192638.jpg
+│   │   ├── img_20200217_192650.jpg
+│   │   ├── img_20200217_192704.jpg
+│   │   ├── img_20200217_192707.jpg
+│   │   ├── img_20200217_193036.jpg
+│   │   ├── img_20200217_193058.jpg
+│   │   ├── img_20200217_193424.jpg
+│   │   ├── img_20200217_193439.jpg
+│   │   ├── img_20200217_193525.jpg
+│   │   ├── img_20200217_193727.jpg
+│   │   └── img_20200217_193811.jpg
+│   ├── ruby_mayo_03_2021
+│   │   ├── a.rb
+│   │   ├── b.rb
+│   │   ├── c.rb
+│   │   ├── evennumbers
+│   │   │   ├── even_number_error.rb
+│   │   │   ├── even_number.rb
+│   │   │   ├── main.rb
+│   │   │   └── utils
+│   │   │       └── validation.rb
+│   │   ├── powernumber
+│   │   │   ├── main.rb
+│   │   │   ├── power_number_error.rb
+│   │   │   └── power_number.rb
+│   │   └── resources_txt.txt
+│   ├── ruby_minimum_coin_change
+│   │   ├── open_url_at_once.sh
+│   │   ├── readme_minimum_coin_change_en.md
+│   │   ├── readme_minimum_coin_change.md
+│   │   └── urls.txt
+│   ├── ruby_on_rails
+│   │   ├── torc
+│   │   │   ├── bin
+│   │   │   │   ├── bundle
+│   │   │   │   ├── htmldiff
+│   │   │   │   ├── ldiff
+│   │   │   │   └── rspec
+│   │   │   ├── challenge.md
+│   │   │   ├── gemfile
+│   │   │   ├── gemfile.lock
+│   │   │   ├── input
+│   │   │   │   ├── input_1.txt
+│   │   │   │   ├── input_2.txt
+│   │   │   │   └── input_3.txt
+│   │   │   ├── lib
+│   │   │   │   └── receipt.rb
+│   │   │   ├── main.rb
+│   │   │   ├── readme.md
+│   │   │   └── spec
+│   │   │       ├── main_spec.rb
+│   │   │       └── spec_helper.rb
+│   │   └── vairix
+│   │       ├── 1_date_format.rb
+│   │       ├── 2_sort_by_pricing.rb
+│   │       ├── 3_categorytree.rb
+│   │       ├── 4_number_to_letters.rb
+│   │       ├── 5_symbolic_to_octal.rb
+│   │       ├── 6_validate.rb
+│   │       ├── 7_hobbists.rb
+│   │       └── readme.md
+│   ├── ruby_pair_programing_prueba_de_thoughtworks
+│   │   ├── code_pairing_candidate_prep_document_sr_dev.pdf
+│   │   ├── descripcion_de_lo_que_toca_hacer
+│   │   │   ├── 1.png
+│   │   │   ├── 2.png
+│   │   │   ├── descripcion_de_lo_que_toca_hacer.txt
+│   │   │   └── tareas_de_las_cual_yo_debo_elegir_por_hacer
+│   │   │       ├── 4.png
+│   │   │       └── 7.png
+│   │   └── developer_joyofenergy_ruby
+│   ├── slang_full_stack_web_engineer_test.pdf
+│   ├── stackless_fullstack_coding_challenge.md
+│   ├── thoughtworks_ruby
+│   │   ├── code_pairing_candidate_prep_document_sr_dev.pdf
+│   │   ├── index.txt
+│   │   └── readme.md
+│   ├── torc
+│   │   ├── bin
+│   │   │   ├── bundle
+│   │   │   ├── htmldiff
+│   │   │   ├── ldiff
+│   │   │   └── rspec
+│   │   ├── challenge.md
+│   │   ├── gemfile
+│   │   ├── gemfile.lock
+│   │   ├── input
+│   │   │   ├── input_1.txt
+│   │   │   ├── input_2.txt
+│   │   │   └── input_3.txt
+│   │   ├── lib
+│   │   │   └── receipt.rb
+│   │   ├── main.rb
+│   │   ├── readme.md
+│   │   └── spec
+│   │       ├── main_spec.rb
+│   │       └── spec_helper.rb
+│   └── vairix
+│       ├── 1_date_format.js
+│       ├── 1_date_format.rb
+│       ├── 2_sort_by_pricing_copy.rb
+│       ├── 2_sort_by_pricing.rb
+│       ├── 3_categorytree_copy.rb
+│       ├── 3_categorytree.rb
+│       ├── 4_number_to_letters_copy.rb
+│       ├── 4_number_to_letters.rb
+│       ├── 5_symbolic_to_octal_copy.rb
+│       ├── 5_symbolic_to_octal.rb
+│       ├── 6_validate_copy.rb
+│       ├── 6_validate.rb
+│       ├── 7_hobbists_copy.rb
+│       ├── 7_hobbists.rb
+│       ├── readme.md
+│       └── regex.js
+├── software_evaluation_in_general
+│   ├── compañia
+│   │   ├── 10.html
+│   │   ├── 11.html
+│   │   ├── 12.html
+│   │   ├── 13.html
+│   │   ├── 15.html
+│   │   ├── 16.html
+│   │   ├── 17.html
+│   │   ├── 18.html
+│   │   ├── 19.html
+│   │   ├── 1a_respuestaschatgpt.html
+│   │   ├── 20.html
+│   │   ├── 21.html
+│   │   ├── 22.html
+│   │   ├── 23.html
+│   │   ├── 24.html
+│   │   ├── 25.html
+│   │   ├── 26.html
+│   │   ├── 27.html
+│   │   ├── 28.html
+│   │   ├── 29.html
+│   │   ├── 2_copy.html
+│   │   ├── 30.html
+│   │   ├── 3.html
+│   │   ├── 4.html
+│   │   ├── 5.html
+│   │   ├── 6.html
+│   │   ├── 7.html
+│   │   ├── 8.html
+│   │   ├── 9.html
+│   │   ├── a.html
+│   │   ├── node_modules
+│   │   ├── package.json
+│   │   ├── package_lock.json
+│   │   └── removepathtags.js
+│   ├── prueba_fullstack_labs
+│   │   └── plataforma_codesignal_test_practice
+│   │       └── para_ejercitarse
+│   │           ├── 1
+│   │           │   ├── 1.png
+│   │           │   ├── 2.png
+│   │           │   └── 3.png
+│   │           ├── 2
+│   │           │   ├── 1.png
+│   │           │   ├── 2.png
+│   │           │   ├── 3.png
+│   │           │   └── 4.png
+│   │           ├── 3
+│   │           │   ├── 1.png
+│   │           │   ├── 2.png
+│   │           │   ├── 3.png
+│   │           │   └── 4.png
+│   │           ├── 4
+│   │           │   ├── 1.png
+│   │           │   └── 2.png
+│   │           └── index.png
+│   ├── prueba_pragma
+│   │   ├── punto1
+│   │   │   ├── pragma1.png
+│   │   │   ├── pragma2.png
+│   │   │   └── prueba.py
+│   │   ├── punto2
+│   │   │   ├── pragma5.png
+│   │   │   ├── pragma6.png
+│   │   │   └── prueba.py
+│   │   ├── punto3
+│   │   │   ├── 10.png
+│   │   │   ├── 11.png
+│   │   │   └── prueba.py
+│   │   └── punto4
+│   │       ├── 20.png
+│   │       ├── 22.png
+│   │       └── prueba.py
+│   ├── prueba_rappi_go
+│   │   ├── img_20200613_164648_copy.jpg
+│   │   ├── img_20200613_164648.jpg
+│   │   ├── img_20200613_164658_copy.jpg
+│   │   ├── img_20200613_164658.jpg
+│   │   ├── img_20200613_164659_copy.jpg
+│   │   ├── img_20200613_164659.jpg
+│   │   ├── img_20200613_164705_copy.jpg
+│   │   ├── img_20200613_164705.jpg
+│   │   ├── img_20200614_103904.jpg
+│   │   └── vid_20200613_164724.mp4
+│   └── rapi
+│       ├── cube_summation_hackerrank_files
+│       │   ├── 207_bca6b8534b.js
+│       │   ├── analytics.js
+│       │   ├── chunks_runtime_068f1ce8da.js
+│       │   ├── commons_hackerrank_r_challenge_hackerrank_r_challenge_list_hackerrank_r_challenge_list_v2_hackerrank_8d2fde01_b4f64a9c64.js
+│       │   ├── commons_hackerrank_r_challenge_hackerrank_r_challenge_list_hackerrank_r_challenge_list_v2_hackerrank_8d2fde01_deb358dc.css
+│       │   ├── commons_hackerrank_r_challenge_hackerrank_r_challenge_list_hackerrank_r_challenge_list_v2_hackerrank_e4991a29_16cf7b183f.js
+│       │   ├── commons_hackerrank_r_challenge_hackerrank_r_challenge_list_hackerrank_r_challenge_list_v2_hackerrank_e4991a29_312760de.css
+│       │   ├── commons_hackerrank_r_challenge_hackerrank_r_contest_hackerrank_r_forum_hackerrank_r_leaderboard_hack_480eafbe_aa6ce75c.css
+│       │   ├── commons_hackerrank_r_challenge_hackerrank_r_contest_hackerrank_r_forum_hackerrank_r_leaderboard_hack_480eafbe_cd573b4348.js
+│       │   ├── commons_hackerrank_r_challenge_hackerrank_r_onboarding_1cc0fcd35b.js
+│       │   ├── commons_hackerrank_r_challenge_hackerrank_r_onboarding_b8af6044.css
+│       │   ├── configuration_python_896c66ac39.js
+│       │   ├── gtm_1.js
+│       │   ├── gtm.js
+│       │   ├── hackerrank_r_app_3b2dda279f.js
+│       │   ├── hackerrank_r_app_66cc022c.css
+│       │   ├── hackerrank_r_challenge_c154776bd6.js
+│       │   ├── hackerrank_r_challenge_c1e63a43.css
+│       │   ├── hackerrank_r_client_c29c12d7f2.js
+│       │   ├── hackerrank_r_community_34d1e2d9.css
+│       │   ├── hackerrank_r_community_96a214918b.js
+│       │   ├── hackerrank_r_krackjack_9403730b2d.js
+│       │   ├── hackerrank_r_old_trimmed_28a256d1af.js
+│       │   ├── hackerrank_r_old_trimmed_e5fa151f.css
+│       │   ├── hackerrank_r_vendor_632e9c60a0.js
+│       │   ├── logo_new_white_green_a5cb16e0ae.svg
+│       │   ├── lsp_client_cdf0dc47f0.js
+│       │   ├── raven_min.js
+│       │   ├── runtime_ef526e041b.js
+│       │   ├── vendors_hackerrank_r_app_a9a67a70.css
+│       │   ├── vendors_hackerrank_r_app_c91d8770c0.js
+│       │   ├── vendors_hackerrank_r_calendar_hackerrank_r_challenge_hackerrank_r_challenge_list_hackerrank_r_challe_c347a91a_a8abf134db.js
+│       │   ├── vendors_hackerrank_r_challenge_hackerrank_r_challenge_list_hackerrank_r_challenge_list_v2_hackerrank_293b27e7_8534f4049c.js
+│       │   ├── vendors_hackerrank_r_challenge_hackerrank_r_challenge_list_hackerrank_r_challenge_list_v2_hackerrank_293b27e7_d729be69.css
+│       │   ├── vendors_hackerrank_r_challenge_hackerrank_r_challenge_list_hackerrank_r_challenge_list_v2_hackerrank_4b83ee7d_f0aee4d17c.js
+│       │   ├── vendors_hackerrank_r_challenge_hackerrank_r_challenge_list_hackerrank_r_challenge_list_v2_hackerrank_7be8cd9a_9f0d1826ad.js
+│       │   ├── vendors_hackerrank_r_challenge_hackerrank_r_challenge_list_hackerrank_r_challenge_list_v2_hackerrank_c0d6b344_00277e3b.css
+│       │   ├── vendors_hackerrank_r_challenge_hackerrank_r_challenge_list_hackerrank_r_challenge_list_v2_hackerrank_c0d6b344_b19f91e2ed.js
+│       │   ├── vendors_hackerrank_r_challenge_hackerrank_r_challenge_list_hackerrank_r_challenge_list_v2_hackerrank_e80abcf1_bb5174db.css
+│       │   ├── vendors_hackerrank_r_challenge_hackerrank_r_challenge_list_hackerrank_r_challenge_list_v2_hackerrank_e80abcf1_dca517db67.js
+│       │   ├── vendors_hackerrank_r_challenge_hackerrank_r_contest_hackerrank_r_iframeable_pricing_container_hacker_02904b13_9121f720.css
+│       │   ├── vendors_hackerrank_r_challenge_hackerrank_r_contest_hackerrank_r_iframeable_pricing_container_hacker_02904b13_da3d333ec2.js
+│       │   ├── vendors_hackerrank_r_challenge_hackerrank_r_contest_hackerrank_r_leaderboard_hackerrank_r_leaderboar_70404225_6763e3ec92.js
+│       │   ├── vendors_hackerrank_r_challenge_hackerrank_r_contest_hackerrank_r_leaderboard_hackerrank_r_leaderboar_70404225_6cffb8a9.css
+│       │   ├── vendors_hackerrank_r_challenge_hackerrank_r_contest_hackerrank_r_leaderboard_hackerrank_r_leaderboardv2_44327ba3.css
+│       │   ├── vendors_hackerrank_r_challenge_hackerrank_r_contest_hackerrank_r_leaderboard_hackerrank_r_leaderboardv2_ee8abe2a98.js
+│       │   ├── vendors_hackerrank_r_challenge_hackerrank_r_onboarding_4c115af2cb.js
+│       │   ├── vendors_hackerrank_r_challenge_hackerrank_r_onboarding_9139f3fb.css
+│       │   ├── vendors_hackerrank_r_community_073c5630.css
+│       │   ├── vendors_hackerrank_r_community_35e6380509.js
+│       │   ├── vendors_hackerrank_r_community_hackerrank_r_iframeable_pricing_container_hackerrank_r_work_2b364d4d75.js
+│       │   ├── vendors_hackerrank_r_community_hackerrank_r_iframeable_pricing_container_hackerrank_r_work_ef5d466b.css
+│       │   ├── vendors_hackerrank_r_community_hackerrank_r_iframeable_pricing_container_hackerrank_r_work_hackerran_ac41a930_1250e12fad.js
+│       │   ├── vendors_hackerrank_r_community_hackerrank_r_library_06d8c1aebc.js
+│       │   ├── vendors_hackerrank_r_community_hackerrank_r_packet_hackerrank_r_roles_hackerrank_r_sourcing_company_7311ee30_cd2c74a0.css
+│       │   ├── vendors_hackerrank_r_community_hackerrank_r_packet_hackerrank_r_roles_hackerrank_r_sourcing_company_7311ee30_ce5b87c59f.js
+│       │   ├── vendors_hackerrank_r_community_hackerrank_r_sourcing_applications_1f40b1aa.css
+│       │   ├── vendors_hackerrank_r_community_hackerrank_r_sourcing_applications_9e62969b17.js
+│       │   ├── vendors_hackerrank_r_community_hackerrank_r_sourcing_company_hackerrank_r_testquestions_hackerrank_r_62babcf8_416a14ce5d.js
+│       │   ├── vendors_hackerrank_r_community_hackerrank_r_sourcing_company_rba_question_view_skills_report_container_28cd5fd853.js
+│       │   ├── vendors_hackerrank_r_community_hackerrank_r_sourcing_company_rba_question_view_skills_report_container_c74b407d.css
+│       │   ├── vendors_hackerrank_r_community_hackerrank_r_work_4babe9da.css
+│       │   ├── vendors_hackerrank_r_community_hackerrank_r_work_9b1c09a6e2.js
+│       │   ├── vendors_hackerrank_r_community_hackerrank_r_work_hackerrank_r_work_login_0b5b654f22.js
+│       │   ├── vendors_hackerrank_r_community_hackerrank_r_work_hackerrank_r_work_login_244ee8bd.css
+│       │   ├── vendors_hackerrank_r_krackjack_5c9f388c3f.js
+│       │   └── vendors_hackerrank_r_krackjack_a11f8e24.css
+│       ├── cube_summation_hackerrank.html
+│       └── prueba_tecnica_backend_rappi_1.docx
+├── sql_python
+│   └── trulogic_prueba_hacker_rank_2025_agosto_8
+│       ├── artists.sql
+│       ├── contacted_customer_invoices.html
+│       ├── respuesta_rest_api_get_author_articles.js
+│       ├── respuesta_rest_api_get_author_articles.py
+│       └── rest_api_get_author_articles.html
+├── tree.txt
+└── truora
+    ├── gorillaz
+    │   ├── decifer.txt
+    │   ├── screenshot_from_2024_05_09_19_36_11.png
+    │   ├── screenshot_from_2024_05_09_19_39_04.png
+    │   ├── screenshot_from_2024_05_09_19_40_18.png
+    │   ├── screenshot_from_2024_05_09_19_41_02.png
+    │   ├── screenshot_from_2024_05_09_19_41_12.png
+    │   ├── screenshot_from_2024_05_09_19_41_27.png
+    │   ├── screenshot_from_2024_05_09_19_41_55.png
+    │   ├── screenshot_from_2024_05_09_19_42_14.png
+    │   ├── screenshot_from_2024_05_09_19_42_26.png
+    │   ├── screenshot_from_2024_05_09_19_42_42.png
+    │   ├── screenshot_from_2024_05_09_19_42_54.png
+    │   ├── screenshot_from_2024_05_09_19_43_07.png
+    │   ├── screenshot_from_2024_05_09_19_43_18.png
+    │   ├── screenshot_from_2024_05_09_19_43_29.png
+    │   ├── screenshot_from_2024_05_09_19_43_43.png
+    │   ├── screenshot_from_2024_05_09_19_44_13.png
+    │   ├── screenshot_from_2024_05_09_19_44_23.png
+    │   ├── screenshot_from_2024_05_09_19_44_33.png
+    │   ├── screenshot_from_2024_05_09_19_44_43.png
+    │   ├── screenshot_from_2024_05_09_19_45_04.png
+    │   ├── screenshot_from_2024_05_09_19_45_19.png
+    │   ├── screenshot_from_2024_05_09_19_45_34.png
+    │   ├── screenshot_from_2024_05_09_19_45_46.png
+    │   ├── screenshot_from_2024_05_09_19_46_01.png
+    │   ├── screenshot_from_2024_05_09_19_46_14.png
+    │   ├── screenshot_from_2024_05_09_19_46_33.png
+    │   ├── screenshot_from_2024_05_09_19_47_01.png
+    │   ├── screenshot_from_2024_05_09_19_47_13.png
+    │   ├── screenshot_from_2024_05_09_19_47_27.png
+    │   ├── screenshot_from_2024_05_09_19_47_38.png
+    │   ├── screenshot_from_2024_05_09_19_47_50.png
+    │   ├── screenshot_from_2024_05_09_19_48_01.png
+    │   ├── screenshot_from_2024_05_09_19_48_13.png
+    │   ├── screenshot_from_2024_05_09_19_48_27.png
+    │   ├── screenshot_from_2024_05_09_19_48_40.png
+    │   ├── screenshot_from_2024_05_09_19_49_20.png
+    │   └── screenshot_from_2024_05_09_19_49_31.png
+    ├── prueba_arquitecto
+    │   ├── tech_lead_challenge_v1_0_1.pdf
+    │   └── truora_culture_deck_v3.pdf
+    ├── prueba_software_developer
+    │   ├── a_ver_si_podemos
+    │   │   ├── notas.txt
+    │   │   └── swe_challenge_drawflow_v1_0_0_1.pdf
+    │   ├── fuentes_para_solucionar_los_problemas
+    │   │   └── notas.txt
+    │   ├── notas.txt
+    │   ├── oe
+    │   │   ├── swe_challenge_fileserver_converted.pdf
+    │   │   └── swe_challenge_fileserver.docx
+    │   ├── otra_prueba
+    │   │   ├── software_developer_truora.pdf
+    │   │   └── tech_lead_senior_challenge_v1_0_1.pdf
+    │   ├── product_markenting_caso_tecnico.pdf
+    │   ├── senior_software_engineer_tech_lead
+    │   │   ├── tech_lead_senior_challenge_v1_0_1.pdf
+    │   │   └── tech_lead_senior_engineer
+    │   │       ├── truora_culture_deck_v3.pdf
+    │   │       └── universo_truora_aqui_esta_nuestro_podcast.html
+    │   ├── software_developer_truora
+    │   │   ├── about_truora
+    │   │   │   ├── demo_day_presentation_truora.html
+    │   │   │   ├── truora_main_website.html
+    │   │   │   └── truora_video_overview.html
+    │   │   ├── news_about_truora_columns_written_by_the_team
+    │   │   │   ├── columnas_forbes_colombia.html
+    │   │   │   ├── press_el_tiempo.html
+    │   │   │   ├── truora_la_republica.html
+    │   │   │   └── truora_ycombinator_startups_during_yc.html
+    │   │   ├── our_culture_team
+    │   │   │   ├── universo_truora_apple_podcasts.html
+    │   │   │   └── universo_truora_aqui_esta_nuestro_podcast.html
+    │   │   └── swe_challenge_zinc_v1_0_5.pdf
+    │   ├── swe_challenge_drawflow_v1_0_0_1.pdf
+    │   ├── swe_challenge_fileserver_v1_0_0.pdf
+    │   ├── swe_challenge_zinc_v1_0_5.pdf
+    │   └── tech_lead_senior_challenge_v1_0_1.pdf
+    ├── prueba_swe_truora_v4_5.pdf
+    ├── prueba_truora.txt
+    ├── swe_challenge_zinc_v1_0_2.pdf
+    ├── todas_las_pruebas
+    │   ├── copy_writer_role
+    │   │   ├── caso_copywriter_docsend.pdf
+    │   │   ├── disen_o_landing_actual.pdf
+    │   │   ├── landing_2_actual.pdf
+    │   │   └── readme.md
+    │   ├── create_folders.sh
+    │   ├── data_analyst_role
+    │   │   ├── data_analyst_test.csv
+    │   │   └── preguntas.txt
+    │   ├── data.txt
+    │   ├── financial_planning_analyst
+    │   │   └── prueba_fp_a_2022.xlsx
+    │   ├── lead_generation_role
+    │   │   ├── lead_generation
+    │   │   │   └── lead_gen_case.pdf
+    │   │   └── lead_generation.zip
+    │   ├── product_designer_role
+    │   │   └── truora_product_designer_challenge.pdf
+    │   ├── product_developer_evangelist_role
+    │   │   └── post_challenge_docx_1.pdf
+    │   ├── product_manager_role
+    │   │   ├── zapsign_challenge.pdf
+    │   │   └── zapsign_challenge.xlsx
+    │   ├── readme.md
+    │   ├── read_write_file.js
+    │   ├── senior_software_engineer
+    │   │   └── tech_lead_senior_challenge_v1_0_1.pdf
+    │   └── software_engineer_role
+    │       └── swe_challenge_zinc_v1_0_5.pdf
+    ├── truora2.png
+    └── truora.png
+
+230 directories, 853 files
