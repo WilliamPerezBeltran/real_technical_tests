@@ -1,0 +1,2 @@
+https://github.com/commaai/connect
+https://github.com/commaai/new-connect/issues/51
