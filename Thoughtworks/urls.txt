@@ -1,0 +1,11 @@
+git@github.com:techops-recsys-lateral-hiring/frontend-developer-joyofenergy.git
+git@github.com:techops-recsys-lateral-hiring/frontend-joyofenergy-reactJS.git
+git@github.com:techops-recsys-lateral-hiring/developer-joyofenergy-javascript.git
+git@github.com:techops-recsys-lateral-hiring/mobiledev-wechatmoments-objectiveC.git
+git@github.com:techops-recsys-lateral-hiring/mobiledev-wechatmoments-reactnative.git
+git@github.com:techops-recsys-lateral-hiring/syssupportengineer-ecomart-java.git
+git@github.com:techops-recsys-lateral-hiring/developer-joyofenergy-ruby.git
+git@github.com:techops-recsys-lateral-hiring/developer-joyofenergy-golang.git
+git@github.com:techops-recsys-lateral-hiring/syssupportengineer-ecomart-javascript.git
+git@github.com:techops-recsys-lateral-hiring/developer-joyofenergy-java.git
+
